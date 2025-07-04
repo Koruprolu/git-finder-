@@ -6,7 +6,7 @@ A sleek and responsive web application built with **React + TypeScript + Vite**,
 
 ## 🚀 Live Demo
 
-https://github-gazer-profile-finder.vercel.app/
+https://git-finder-nine-lime.vercel.app/
 
 ---
 
